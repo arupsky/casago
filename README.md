@@ -10,11 +10,12 @@ ACF settings json is included here
 
 # Installation guide:
 1. Install the theme
-2. 
-2. Install ACF and SVG Support plugins
-3. Import ACF settings json from the repository
-4. Create a page "Landing page" and select landing-page template
-5. Add and upload all content and images in landing page
-6. From Setting > Reading menu, select that landing page as front page
-7. Create menus and add items to those menus
-8. WOW!! We are ready to go!!!
+2. Install ACF plugins for the custom fields
+3. Install SVG Support plugins for uploading SVG files. Remember to restrict access to Administrator only. Otherwise this can make security issue
+4. Import ACF settings json from the repository
+5. Create a page "Landing page" and select landing-page template
+6. Add and upload all content and images in landing page
+7. From Setting > Reading menu, select that landing page as front page
+8. Create menus and add items to those menus. There are five menus for main navigation and two menus for footer
+9. WOW!! We are ready to go!!!
+10. 
