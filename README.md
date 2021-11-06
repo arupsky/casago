@@ -18,4 +18,4 @@ ACF settings json is included here
 7. From Setting > Reading menu, select that landing page as front page
 8. Create menus and add items to those menus. There are five menus for main navigation and two menus for footer
 9. WOW!! We are ready to go!!!
-10. 
+10. All done!
