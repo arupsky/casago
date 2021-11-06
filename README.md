@@ -10,8 +10,9 @@ ACF settings json is included here
 
 # Installation guide:
 1. Install the theme
+2. 
 2. Install ACF and SVG Support plugins
-3. Install ACF settings json from the repository
+3. Import ACF settings json from the repository
 4. Create a page "Landing page" and select landing-page template
 5. Add and upload all content and images in landing page
 6. From Setting > Reading menu, select that landing page as front page
