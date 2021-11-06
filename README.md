@@ -1,5 +1,5 @@
 # Casago WordPress Theme
-Casago is a landing page that is developed with WordPress. This is a part of hiring WordPress developer role.
+Casago is a landing page that is developed with WordPress. Advanced Custom Field (ACF) is used for custom fields. This is a part of hiring WordPress developer role.
 
 # Landing page
 landing.php file is for the landing page
