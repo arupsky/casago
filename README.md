@@ -14,5 +14,6 @@ ACF settings json is included here
 3. Install ACF settings json from the repository
 4. Create a page "Landing page" and select landing-page template
 5. Add and upload all content and images in landing page
-6. Create menus and add items to those menus
-7. WOW!! We are ready to go!!!
+6. From Setting > Reading menu, select that landing page as front page
+7. Create menus and add items to those menus
+8. WOW!! We are ready to go!!!
